@@ -1,4 +1,19 @@
 # created by virtualenv automatically
-
-bin/
-lib/
+bin/activate
+bin/activate.csh
+bin/activate.fish
+bin/activate.nu
+bin/easy_install
+bin/easy_install-2.7
+bin/easy_install2
+bin/easy_install2.7
+bin/pip
+bin/pip-2.7
+bin/pip2
+bin/pip2.7
+bin/wheel
+bin/wheel-2.7
+bin/wheel2
+bin/wheel2.7
+lib/python2.7/site.pyc
+lib/python2.7/site-packages/_virtualenv.pyc
